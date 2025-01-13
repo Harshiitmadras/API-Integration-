@@ -35,7 +35,3 @@ This project demonstrates the integration of the **Shiprocket Checkout API** to 
    ```bash
    git clone https://github.com/Harshiitmadras/shiprocket-checkout.git
 
-├── server.js         # Backend server implementation
-├── index.html        # Frontend implementation with Shiprocket UI
-├── package.json      # Backend dependencies
-└── README.md         # Project documentation
